@@ -1,0 +1,14 @@
+C:\Users\tonir\source\repos\hamkSovellus\hamkSovellus\bin\Debug\hamkSovellus.exe.config
+C:\Users\tonir\source\repos\hamkSovellus\hamkSovellus\bin\Debug\hamkSovellus.exe
+C:\Users\tonir\source\repos\hamkSovellus\hamkSovellus\bin\Debug\hamkSovellus.pdb
+C:\Users\tonir\source\repos\hamkSovellus\hamkSovellus\obj\Debug\hamkSovellus.csprojAssemblyReference.cache
+C:\Users\tonir\source\repos\hamkSovellus\hamkSovellus\obj\Debug\App.g.cs
+C:\Users\tonir\source\repos\hamkSovellus\hamkSovellus\obj\Debug\hamkSovellus_MarkupCompile.cache
+C:\Users\tonir\source\repos\hamkSovellus\hamkSovellus\obj\Debug\hamkSovellus.Properties.Resources.resources
+C:\Users\tonir\source\repos\hamkSovellus\hamkSovellus\obj\Debug\hamkSovellus.csproj.GenerateResource.cache
+C:\Users\tonir\source\repos\hamkSovellus\hamkSovellus\obj\Debug\hamkSovellus.csproj.CoreCompileInputs.cache
+C:\Users\tonir\source\repos\hamkSovellus\hamkSovellus\obj\Debug\hamkSovellus.exe
+C:\Users\tonir\source\repos\hamkSovellus\hamkSovellus\obj\Debug\hamkSovellus.pdb
+C:\Users\tonir\source\repos\hamkSovellus\hamkSovellus\obj\Debug\MainWindow.baml
+C:\Users\tonir\source\repos\hamkSovellus\hamkSovellus\obj\Debug\MainWindow.g.cs
+C:\Users\tonir\source\repos\hamkSovellus\hamkSovellus\obj\Debug\hamkSovellus.g.resources
