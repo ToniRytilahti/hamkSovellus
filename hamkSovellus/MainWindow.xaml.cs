@@ -19,9 +19,54 @@ namespace hamkSovellus
     /// </summary>
     public partial class MainWindow : Window
     {
+        Timed ajastin;
         public MainWindow()
         {
+
+
+
             InitializeComponent();
+
+
+
+
+            ajastin = new Timed();
+            /*while(true)
+            {
+                keyboardTime.Content = ajastin.stopwatch.Elapsed;
+            }*/
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            keyboardTime.Content = ajastin.stopwatch.Elapsed;
         }
     }
 }
+
+
+/*
+namespace ajastin
+{
+    class Program
+    {
+        static void Main()
+        {
+            Stopwatch stopwatch = new Stopwatch();
+            stopwatch.Start();
+
+            for (int i = 0; i < 1000; i++)
+            {
+                System.Threading.Thread.Sleep(10);
+            }
+            stopwatch.Stop();
+
+            Console.WriteLine("Aikaa kulunut: {0:hh\\:mm\\:ss}", stopwatch.Elapsed);
+
+            Console.ReadLine();
+
+
+        }
+    }
+}
+*/

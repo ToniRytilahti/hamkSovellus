@@ -60,7 +60,7 @@
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
     </Compile>
-    <Compile Include="stopwatchToTrackTime.cs" />
+    <Compile Include="Timed.cs" />
     <Compile Include="WindowsHookHelper.cs" />
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
